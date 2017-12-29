@@ -71,7 +71,7 @@ public class CuratorOperatorDemo {
         executorService.shutdown();
 
         //事务操作 curator独有的
-        System.out.println("");
+
 
 
     }
